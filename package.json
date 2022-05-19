@@ -10,6 +10,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "flyio": "^0.6.14",
     "pinia": "^2.0.14",
     "vant": "^3.4.9",
     "vue": "^3.2.25",
